@@ -1,0 +1,6 @@
+http://msdn.microsoft.com/es-es/library/system.io.directory.aspx
+http://msdn.microsoft.com/es-es/library/54a0at6s.aspx
+http://msdn.microsoft.com/es-es/library/d3eayw32.aspx
+http://msdn.microsoft.com/es-es/library/system.io.directory.getcurrentdirectory.aspx
+http://es.softuses.com/25632
+http://www.programandoen.net/docs/?year=2009&month=3&day=12&title=Leer-y-recorrer-los-archivos-y-ficheros-de-una-carpeta-o-directorio
