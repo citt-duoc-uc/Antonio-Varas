@@ -1,0 +1,13 @@
+﻿<Window x:Class="ProyectoKinectVer2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="1200" Width="800" >
+    <Canvas Height="auto" Width="auto" Name="canvasContenedor" >
+        <TextBlock Name="alto" Text="none" Canvas.Top="0" FontSize="36" />
+        <TextBlock Name="ancho" Text="none" Canvas.Top="50" FontSize="36" />
+        <TextBlock Name="Posicionalto" Text="none" Canvas.Top="100" FontSize="36" />
+        <TextBlock Name="Posicionancho" Text="none" Canvas.Top="150" FontSize="36" />
+        <Rectangle Name="recDerecha" Fill="Black"  Height="100" Width="100" Canvas.Left="392" Canvas.Top="196"/>
+        <Rectangle Name="recIzquierda" Fill="Green"  Height="100" Width="100" Canvas.Left="139" Canvas.Top="196"/>
+    </Canvas>
+</Window>
